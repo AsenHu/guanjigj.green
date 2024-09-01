@@ -1,11 +1,9 @@
 ---
 layout: about
-title: about
+title: About Me
 date: 2024-09-01 10:26:55
 tags:
 ---
-
-# About Me
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut mi lorem. Suspendisse fermentum ligula at dapibus sollicitudin. Ut fermentum sodales imperdiet. Nunc at dapibus turpis. Donec et cursus nisi, a dictum tellus. Sed id tincidunt ligula, in bibendum tellus. Quisque nulla nulla, pretium non luctus non, molestie vel purus. Phasellus auctor imperdiet enim at efficitur.
 
