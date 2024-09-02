@@ -5,7 +5,7 @@ menu:
   Contact: /contact
 
 # Favicon
-favicon_url:
+favicon_url: https://alist.asen.page/d/189cloud/static/guanjigj.green/resample/favicon-x64-f3e5948a1422c4dc6059fcb625c16d3fa75fdc7f3eb20dc39892d3b543c15c70.webp
 
 # Default Image for Posts
 default_cover_image: images/default.jpg
