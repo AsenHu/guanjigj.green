@@ -194,7 +194,7 @@ input:focus, textarea:focus {
 	margin-bottom: 10px;
 }
 
-.post-page img {
+.post-page p img {
 	width: 100%;
 	height: auto;
 	max-width: 100%;
