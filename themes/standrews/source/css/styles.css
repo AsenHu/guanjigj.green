@@ -183,12 +183,6 @@ input:focus, textarea:focus {
 /* Post Page
 —————————————————————————————————————————————————————————————————————— */
 
-.cover-image {
-	width: 100%;
-	max-height: 500px;
-	object-fit: cover;
-}
-
 .post-page h1 {
 	text-align: center;
 }
@@ -198,6 +192,12 @@ input:focus, textarea:focus {
 	width: 5%;
 	margin-top: 20px;
 	margin-bottom: 10px;
+}
+
+.post-page img {
+	width: 100%;
+	height: auto;
+	max-width: 100%;
 }
 
 /* Footer
