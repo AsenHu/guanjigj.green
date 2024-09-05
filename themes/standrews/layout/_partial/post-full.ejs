@@ -9,7 +9,8 @@
 
     <%- item.content %>
 
-    <%- partial("_partial/comments.ejs") %>
+    <div id="gitalk-container"></div>
+    <script>gitalk.render('gitalk-container');</script>
 
   </div>
 </div>
