@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: post
 title: About Me
 date: 2024-09-01 10:26:55
 tags:
