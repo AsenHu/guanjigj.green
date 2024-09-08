@@ -12,7 +12,9 @@
 			"pnpmVersion": "latest",
 			"nvmVersion": "latest"
 		}
-	}
+	},
+
+	"postCreateCommand": "npm install hexo-cli -g"
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
