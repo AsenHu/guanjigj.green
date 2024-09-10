@@ -5,10 +5,10 @@ menu:
   Contact: /contact
 
 # Favicon
-favicon_url: https://pic.guanjigj.green/resample/favicon-x64-6fa78041154889a627b87a6f4f8716ed466b8937a4c6e04e79f8c2541403e76b.webp
+favicon_url: https://pic.guanjigj.green/original/favicon-original-ccff110512b08cbaa328c23a811932781c24236fbf833f35fbe1bbf8c3ee5ed4.svg
 
 # Default Image for Posts
-default_cover_image: images/default.jpg
+default_cover_image:
 
 # Google Analytics Tracking ID
 google_analytics:
