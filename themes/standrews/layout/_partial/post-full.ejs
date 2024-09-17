@@ -4,13 +4,20 @@
     <div class="post-page text-center my-4">
       <h1><%- item.title || "Untitled" %></h1>
       <hr>
-      <span class="date"><%= item.date.format(config.date_format) %></span>
+      <span class="date">
+        <%= item.date.format(config.date_format) %>
+      </span>
     </div>
 
     <%- item.content %>
 
-    <div id="gitalk-container"></div>
-    <script>gitalk.render('gitalk-container');</script>
+      <div id="waline"></div>
+      <script>
+        Waline.init({
+          el: '#waline',
+          serverURL: 'https://waline.guanjigj.green',
+        });
+      </script>
 
   </div>
 </div>
