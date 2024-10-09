@@ -1,5 +1,5 @@
 body {
-	font-family: 'EB Garamond', serif;
+	font-family: 'EB Garamond', 'Noto Serif SC', serif;
 	font-size: 1.25rem;
 	color: #333;
 }
@@ -98,7 +98,7 @@ input:focus, textarea:focus {
 }
 
 .nav-item {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat', 'Noto Serif SC', sans-serif;
 	text-transform: uppercase;
 	font-size: 0.8rem;
 	font-weight: 300;
@@ -158,7 +158,7 @@ input:focus, textarea:focus {
 
 .date {
 	color: #666;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat', 'Noto Serif SC', sans-serif;
 	text-transform: uppercase;
 	font-size: 0.7rem;
 	font-weight: 300;
