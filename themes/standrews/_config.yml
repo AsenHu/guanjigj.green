@@ -5,7 +5,7 @@ menu:
   Contact: /contact
 
 # Favicon
-favicon_url: https://pic.guanjigj.green/original/favicon-original-ccff110512b08cbaa328c23a811932781c24236fbf833f35fbe1bbf8c3ee5ed4.svg
+favicon_url: favicon.svg
 
 # Default Image for Posts
 default_cover_image:
